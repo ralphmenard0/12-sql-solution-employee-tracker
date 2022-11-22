@@ -1,5 +1,5 @@
 {
-    "name": "employee-tracker",
+    "name": "employee-tracker-ralph",
     "version": "1.0.0",
     "description": "This is a homework assignment from the UCF Full-Stack Coding Bootcamp. In this project I am tasked with creating an application that allows you to track a database of employees using MySQL. The application will run in the command line and utilize the Inquirer package.",
     "main": "index.js",
@@ -10,15 +10,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/awidener3/employee-tracker.git"
+        "url": "git+https://github.com/ralphmenard0/"
     },
     "keywords": [],
     "author": "Alex Widener",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/awidener3/employee-tracker/issues"
+        "url": "https://github.com/ralphmenard0/"
     },
-    "homepage": "https://github.com/awidener3/employee-tracker#readme",
+    "homepage": "https://github.com/ralphmenard0/",
     "dependencies": {
         "console.table": "^0.10.0",
         "figlet": "^1.5.2",
